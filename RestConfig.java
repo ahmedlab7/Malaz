@@ -1,4 +1,4 @@
-package com.cubic.rest;
+package com.cubic.rest;;
 
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.context.annotation.Configuration;
